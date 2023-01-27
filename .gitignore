@@ -35,3 +35,8 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#help file in folder src
+src/index.html
+src/index1.html
+src/index1.js
